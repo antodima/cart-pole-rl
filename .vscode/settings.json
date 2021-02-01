@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/home/anto/anaconda3/envs/cart-pole-rl/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.executeInFileDir": true,
+    "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
+    "editor.rulers": [80],
+    "files.watcherExclude": {
+        "**/dataset/*/**": true
+      },
+      "git.ignoreLimitWarning": true,
+      "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
